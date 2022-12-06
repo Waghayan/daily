@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Max 1 4k
+http://iptv.journalsat.com:25461/699107000/journalsat/1729
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Max 2 4k
+http://iptv.journalsat.com:25461/699107000/journalsat/1730
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN max 1 HD
+http://iptv.journalsat.com:25461/699107000/journalsat/1731
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN max 2 HD
+http://iptv.journalsat.com:25461/699107000/journalsat/1733
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN sport max 3 HD
+http://iptv.journalsat.com:25461/699107000/journalsat/1735
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN sport max 4 HD
+http://iptv.journalsat.com:25461/699107000/journalsat/1736
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN sport max 5 HD
+http://iptv.journalsat.com:25461/699107000/journalsat/1737
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN sport max 6 HD
+http://iptv.journalsat.com:25461/699107000/journalsat/1738
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKass Extra one
+http://iptv.journalsat.com:25461/699107000/journalsat/1739
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKass Extra two
+http://iptv.journalsat.com:25461/699107000/journalsat/1740
+
+
+
+
+
+
+#EXTM3U
 #EXTINF:-1,Bein Max 1 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
 #EXTINF:-1,Bein Max 2 HD
