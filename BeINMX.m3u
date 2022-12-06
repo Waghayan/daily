@@ -1,31 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Max 1 4k
-http://iptv.journalsat.com:25461/699107000/journalsat/1729
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Max 2 4k
-http://iptv.journalsat.com:25461/699107000/journalsat/1730
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN max 1 HD
-http://iptv.journalsat.com:25461/699107000/journalsat/1731
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN max 2 HD
-http://iptv.journalsat.com:25461/699107000/journalsat/1733
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN sport max 3 HD
-http://iptv.journalsat.com:25461/699107000/journalsat/1735
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN sport max 4 HD
-http://iptv.journalsat.com:25461/699107000/journalsat/1736
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN sport max 5 HD
-http://iptv.journalsat.com:25461/699107000/journalsat/1737
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN sport max 6 HD
-http://iptv.journalsat.com:25461/699107000/journalsat/1738
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALKass Extra one
-http://iptv.journalsat.com:25461/699107000/journalsat/1739
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALKass Extra two
-http://iptv.journalsat.com:25461/699107000/journalsat/1740
 
-
-
-
-
-
-#EXTM3U
 #EXTINF:-1,Bein Max 1 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
 #EXTINF:-1,Bein Max 2 HD
@@ -34,63 +8,40 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
 #EXTINF:-1,Bein Max 4 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
-#EXTINF:-1,Bein Sport HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/331
-#EXTINF:-1,Bein Sport HD 1
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/322
-#EXTINF:-1,Bein Sport HD 10
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/321
-#EXTINF:-1,Bein Sport HD 2
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/320
-#EXTINF:-1,Bein Sport HD 3
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/319
-#EXTINF:-1,Bein Sport HD 4
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/318
-#EXTINF:-1,Bein Sport HD 5
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/317
-#EXTINF:-1,Bein Sport HD 6
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/316
-#EXTINF:-1,Bein Sport HD 7
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/315
-#EXTINF:-1,Bein Sport HD 8
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/314
-#EXTINF:-1,Bein Sport HD 9
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/313
-#EXTINF:-1,Bein Sport HD11 EN
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/330
-#EXTINF:-1,Bein Sport HD12 EN
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/329
-#EXTINF:-1,Bein Sport HD13
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/328
-#EXTINF:-1,Bein Sport HD14
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/327
-#EXTINF:-1,Bein Sport HD15
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/326
-#EXTINF:-1,Bein Sport HD16
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/325
-#EXTINF:-1,Bein Sport NBA HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/324
-#EXTINF:-1,Bein Sport News HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/323
-#EXTINF:-1,Bein Sports 1 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/76
-#EXTINF:-1,Bein Sports 2 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/75
-#EXTINF:-1,Bein Sports 3 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/74
-#EXTINF:-1,Bein Sports 4 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/73
-#EXTINF:-1,Bein Sports 5 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/72
-#EXTINF:-1,Bein Sports 6 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/71
-#EXTINF:-1,Bein Sports HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/572
-#EXTINF:-1,Bein Sports News
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/423
 #EXTINF:-1,[TUR] TRT 1 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/715
-#EXTINF:-1,[TUR] SPORTS TV
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/720
-#EXTINF:-1,[TUR] TRT SPOR HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/707
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="COPA DEL MUNDO",CITY SPORTS TV
+http://daleplay.club:8080/eduardo2022/eduardo2022/111541
+https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="COPA DEL MUNDO",TV PÚBLICA 23.2 TDA HD
+https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.saltacomparativa.com.ar/public/images/noticias/47795-la-fifa-oficializo-el-logo-de-la-copa-del-mundo-de-qatar-2022.jpg"group-title="COPA DEL MUNDO", UNIVERSO HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+
+
+#EXTINF:-1 tvg-logo="https://libero.cronosmedia.glr.pe/migration/imagen/2020/11/11/noticia-1605121300-tyc-sports-vivo.jpg"group-title="COPA DEL MUNDO",TyC Sports HD
+http://daleplay.club:8080/eduardo2022/eduardo2022/81252
+
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_761010-MLA51327067555_082022-O.webp"group-title="COPA DEL MUNDO",TELEMUNDO 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+
+
+#EXTINF:-1 tvg-logo="https://www.saltacomparativa.com.ar/public/images/noticias/47795-la-fifa-oficializo-el-logo-de-la-copa-del-mundo-de-qatar-2022.jpg"group-title="COPA DEL MUNDO", TVC DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvjzsnX8ZuRAu3Q6rd6zcTB1blNargpKl1VSaaF-sCK6rhNTisThXPHyCMJWeVaO1QieP6EDTrMzPmH4TDlyLPAwgrmx7lkk-njAt6j1y1BQbYw5WLpi-kchbmbI55I4ShjCCGYpO7iCwd_2ZnKBl81v1bivlj5V_vZuNDh7TW9jlMU0iMQorng19/s16000/Qatar2022.png"group-title="COPA DEL MUNDO",DIRECTV SPORTS 
+http://daleplay.club:8080/eduardo2022/eduardo2022/50492
+
+
+
+#EXTINF:-1 tvg-logo="https://www.saltacomparativa.com.ar/public/images/noticias/47795-la-fifa-oficializo-el-logo-de-la-copa-del-mundo-de-qatar-2022.jpg"group-title="COPA DEL MUNDO",TUDN
+http://daleplay.club:8080/eduardo2022/eduardo2022/100678
+http://daleplay.club:8080/eduardo2022/eduardo2022/81252
