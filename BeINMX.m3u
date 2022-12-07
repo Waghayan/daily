@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,beIN SPORTS MAX 1 SD
+http://comag.rip:8000/50000294027085/23534165557770/176203
+#EXTINF:-1,beIN SPORTS MAX 2 SD
+http://comag.rip:8000/50000294027085/23534165557770/176202
+#EXTINF:-1,beIN SPORTS MAX 3 SD
+http://comag.rip:8000/50000294027085/23534165557770/176201
+#EXTINF:-1,beIN SPORTS MAX 4 SD
+http://comag.rip:8000/50000294027085/23534165557770/176200
 #EXTINF:-1,Bein Max 1 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
 #EXTINF:-1,Bein Max 2 HD
@@ -21,32 +29,17 @@ http://comag.rip:8000/50000294027085/23534165557770/176196
 #EXTINF:-1,beIN SPORTS MAX 5 HD
 http://comag.rip:8000/50000294027085/23534165557770/176195
 #EXTINF:-1,beIN SPORTS MAX 6 HD
+http://comag.rip:8000/50000294027085/23534165557770/176194
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="COPA DEL MUNDO",TV PÚBLICA 23.2 TDA HD
-https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.saltacomparativa.com.ar/public/images/noticias/47795-la-fifa-oficializo-el-logo-de-la-copa-del-mundo-de-qatar-2022.jpg"group-title="COPA DEL MUNDO", UNIVERSO HD
+#EXTINF:-1,UNIVERSO HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
-
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_761010-MLA51327067555_082022-O.webp"group-title="COPA DEL MUNDO",TELEMUNDO 
+#EXTINF:-1,TELEMUNDO 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
-
-
-#EXTINF:-1 tvg-logo="https://www.saltacomparativa.com.ar/public/images/noticias/47795-la-fifa-oficializo-el-logo-de-la-copa-del-mundo-de-qatar-2022.jpg"group-title="COPA DEL MUNDO", TVC DEPORTES
+#EXTINF:-1,TVC DEPORTES
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvjzsnX8ZuRAu3Q6rd6zcTB1blNargpKl1VSaaF-sCK6rhNTisThXPHyCMJWeVaO1QieP6EDTrMzPmH4TDlyLPAwgrmx7lkk-njAt6j1y1BQbYw5WLpi-kchbmbI55I4ShjCCGYpO7iCwd_2ZnKBl81v1bivlj5V_vZuNDh7TW9jlMU0iMQorng19/s16000/Qatar2022.png"group-title="COPA DEL MUNDO",DIRECTV SPORTS 
+#EXTINF:-1,DIRECTV SPORTS
 http://daleplay.club:8080/eduardo2022/eduardo2022/50492
-
-
-
-#EXTINF:-1 tvg-logo="https://www.saltacomparativa.com.ar/public/images/noticias/47795-la-fifa-oficializo-el-logo-de-la-copa-del-mundo-de-qatar-2022.jpg"group-title="COPA DEL MUNDO",TUDN
+#EXTINF:-1,TUDN
 http://daleplay.club:8080/eduardo2022/eduardo2022/100678
 http://daleplay.club:8080/eduardo2022/eduardo2022/81252
-
-
-
