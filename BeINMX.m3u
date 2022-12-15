@@ -1,4 +1,4 @@
-#EXTM3U
+##EXTM3U
 
 #EXTINF:-1,beIN SPORTS MAX 1 SD
 http://comag.rip:8000/50000294027085/23534165557770/176203
@@ -16,8 +16,6 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
 #EXTINF:-1,Bein Max 4 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
-#EXTINF:-1,[TUR] TRT 1 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/715
 #EXTINF:-1,beIN SPORTS MAX  1 HD
 http://comag.rip:8000/50000294027085/23534165557770/176199
 #EXTINF:-1,beIN SPORTS MAX 2 HD
@@ -28,18 +26,15 @@ http://comag.rip:8000/50000294027085/23534165557770/176197
 http://comag.rip:8000/50000294027085/23534165557770/176196
 #EXTINF:-1,beIN SPORTS MAX 5 HD
 http://comag.rip:8000/50000294027085/23534165557770/176195
-#EXTINF:-1,beIN SPORTS MAX 6 HD
-http://comag.rip:8000/50000294027085/23534165557770/176194
-
-
-#EXTINF:-1,UNIVERSO HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
-#EXTINF:-1,TELEMUNDO 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
 #EXTINF:-1,TVC DEPORTES
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
 #EXTINF:-1,DIRECTV SPORTS
 http://daleplay.club:8080/eduardo2022/eduardo2022/50492
-#EXTINF:-1,TUDN
+#EXTINF:-1,TUDN 1
 http://daleplay.club:8080/eduardo2022/eduardo2022/100678
+#EXTINF:-1,tycsports
 http://daleplay.club:8080/eduardo2022/eduardo2022/81252
+
+
+
+
