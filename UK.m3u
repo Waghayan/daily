@@ -1,0 +1,78 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="LA: Smithsonian Channel" tvg-logo="http://51.79.21.44:80/images/c086052a1c0d40dcc3ea76942f90d1cd.png" group-title="Latino All",LA: Smithsonian Channel
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/1619687.ts
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="USA Smithsonian Channel" tvg-logo="http://185.156.74.135:80/images/ae7fdaa589db658efacf2b6387221c47.jpg" group-title="USA Documentary",USA Smithsonian Channel
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/175930.ts
+#EXTINF:-1 tvg-id="SMITHPH" tvg-name="USA Smithsonian Channel West" tvg-logo="http://5.44.253.151:80/images/2cb2a8ea1279cae1306b0ad30a5c2b8e.png" group-title="USA Documentary",USA Smithsonian Channel West
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/1771482.ts
+#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA SMITHSONIAN Channel HD" tvg-logo="http://77.247.109.54:80/images/c086052a1c0d40dcc3ea76942f90d1cd.png" group-title="CA: Canada Entertainment",CA SMITHSONIAN Channel HD
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/228630.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Smithsonian Channel" tvg-logo="http://185.156.74.135:80/images/c086052a1c0d40dcc3ea76942f90d1cd.png" group-title="Latino All",LA: Smithsonian Channel
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/1619687.ts
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK BBC 1" tvg-logo="http://51.79.21.44:80/images/7da10693cbc6a9e65777b8bd2126c426.jpg" group-title="UK: Entertainment",UK BBC 1
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189890.ts
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK BBC 2" tvg-logo="http://185.156.74.135:80/images/725544db91b4c9396fcd2a98131f122c.png" group-title="UK: Entertainment",UK BBC 2
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189891.ts
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK BBC News HD" tvg-logo="http://51.79.21.44:80/images/acb6b801d608b2a9dd927bce241b21e5.png" group-title="UK: News",UK BBC News HD
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189894.ts
+#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK BBC Parliament" tvg-logo="http://185.156.74.135:80/images/300fe8e89e2d4d21d18aa6b35644474a.png" group-title="UK: News",UK BBC Parliament
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189898.ts
+#EXTINF:-1 tvg-id="bbc2northernireland.uk" tvg-name="UK BBC Two Northern Ireland" tvg-logo="http://163.123.140.162:80/images/6bb1b96e5a7e5138dedd2c5a73fc3bb0.png" group-title="UK: News",UK BBC Two Northern Ireland
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189900.ts
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="UK BBC World News" tvg-logo="http://185.156.74.135:80/images/2604c016db2a979db3b4138a9104b979.png" group-title="UK: News",UK BBC World News
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189903.ts
+#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-name="UK Comedy Central Extra" tvg-logo="http://51.79.21.44:80/images/96e3d53e0e5a0765e100e2859d506fd5.png" group-title="UK: Entertainment",UK Comedy Central Extra
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189928.ts
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK Comedy Central FHD" tvg-logo="http://77.247.109.54:80/images/4c0fe015c5cdc2b6385045975a45554e.png" group-title="UK: Entertainment",UK Comedy Central FHD
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189929.ts
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK Crime & Investigation HD" tvg-logo="http://51.79.21.44:80/images/55fe26db5a5dd86acbdb79b6efd8707e.png" group-title="UK: Entertainment",UK Crime & Investigation HD
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189930.ts
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK Dave HD" tvg-logo="http://163.123.140.162:80/images/793bdeb0a3b46e42d8868c11700fac9b.png" group-title="UK: Entertainment",UK Dave HD
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189931.ts
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK Discovery" tvg-logo="http://77.247.109.54:80/images/b79c435ba64d9d78afe74110a72725a7.png" group-title="UK: Documentary",UK Discovery
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189932.ts
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK Discovery Science" tvg-logo="http://185.156.74.135:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="UK: Documentary",UK Discovery Science
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189934.ts
+#EXTINF:-1 tvg-id="fox.uk" tvg-name="UK Fox News HD" tvg-logo="http://163.123.140.162:80/images/1e99dd2f8170aaeecebe47818c088a93.png" group-title="UK: News",UK Fox News HD
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189949.ts
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK Nat Geo" tvg-logo="http://51.79.21.44:80/images/a9d5251011ef88783688d8f0578363c3.png" group-title="UK: Documentary",UK Nat Geo
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189979.ts
+
+#EXTINF:-1 tvg-id="sky1.uk" tvg-name="UK SKY One" tvg-logo="http://163.123.140.162:80/images/5d0a0906140d979cfea90f8c6ce33ce5.png" group-title="UK: Entertainment",UK SKY One
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189999.ts
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK Sky News" tvg-logo="http://51.79.21.44:80/images/4681b5209470303e606268931f4cf07a.png" group-title="UK: News",UK Sky News
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/190003.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK Travel Channel" tvg-logo="http://163.123.140.162:80/images/bef668b336c4be3c0c8c931092cffa33.png" group-title="UK: Documentary",UK Travel Channel
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/190018.ts
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK EURONEWS HD" tvg-logo="" group-title="UK: Documentary",UK EURONEWS HD
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/391197.ts
+
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK Sky Nature" tvg-logo="" group-title="UK: Documentary",UK Sky Nature
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/515732.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK MOTORS FHD" tvg-logo="http://185.156.74.135:80/images/c605ce9a6fd7927219fda1af5fa11dbd.png" group-title="UK: Sport",UK MOTORS FHD
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/391473.ts
+
+
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK CNN INTERNATIONAL" tvg-logo="http://185.156.74.135:80/images/07b0dbf3f7ab307320351b89ae268e64.png" group-title="UK: News",UK CNN INTERNATIONAL
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/1395475.ts
+
+
+
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK Sky Documentaries" tvg-logo="http://163.123.140.162:80/images/91f19ecfd71b6f41f5782e77309265e1.png" group-title="UK: Documentary",UK Sky Documentaries
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/1400759.ts
+
+
+
+#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="UK HGTV" tvg-logo="http://163.123.140.162:80/images/fa5369761ae1eced1cb1c55b8f350a04.png" group-title="UK: Entertainment",UK HGTV
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/1077497.ts
+
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK History 2" tvg-logo="http://185.156.74.135:80/images/6b1071d38721c763dfa7e24ce8048d3f.jpg" group-title="UK: Documentary",UK History 2
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189953.ts
+
+
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK Discovery Turbo" tvg-logo="http://163.123.140.162:80/images/f5108e0f162b721881b2b4366dad8877.jpg" group-title="UK: Documentary",UK Discovery Turbo
+http://ky-iptv.com:80/meljames/AQ9a8HxPkN/189936.ts
+
