@@ -3,6 +3,8 @@
 http://rasaiptv.com:8080/live/nhZ6n2VY/5m8EnS7Vhyge/110220.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL F1
 http://capivara.top:80/play/-AxnMT-LfOWNircTyayIwZqH0wk32JB16gtDPAvar0H8Gaa2lVV6M31hA9G1DW1V
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",UK SKY F1 HD
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=1458661&extension=ts&play_token=RsvGNKudjM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL MAS F1 HD
 http://496943186237263886.ofe0229.xyz/live/Zapata81A/Zapata81M122A/723817.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1
