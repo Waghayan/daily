@@ -717,84 +717,45 @@ https://allinonereborn.com/4k/m3u.php?id=37572
 #EXTINF:-1 tvg-id="37578" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR EMILIA-ROMAGNA
 https://allinonereborn.com/4k/m3u.php?id=37578
 
-#EXTINF:-1 tvg-id="37584" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR FRIULI VENEZIA GIULIA
-https://allinonereborn.com/4k/m3u.php?id=37584
 
-#EXTINF:-1 tvg-id="37590" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR FURLANIJA JULIJSKA KRAJINA
-https://allinonereborn.com/4k/m3u.php?id=37590
+#EXTINF:-1 tvg-id="37722" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+http://ktv.im:8080/0507102290a/0507102290a/49598
+http://ktv.im:8080/556224433k/9004455221/49598
+http://ktv.im:8080/556224433k/9004455221/49522
+http://ktv.im:8080/556224433k/9004455221/49589
+http://luxe-4k.xyz:80/play/live.php?mac=00:1A:79:B6:36:E4&stream=10517&extension=m3u8
+http://4kgoott.com:2052/play/live.php?mac=00:1A:79:BA:90:E4&stream=17253&extension=m3u8
+http://4kgoott.com:2052/play/live.php?mac=00:1A:79:BA:90:E4&stream=10517&extension=m3u8
 
-#EXTINF:-1 tvg-id="37596" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR LAZIO
-https://allinonereborn.com/4k/m3u.php?id=37596
 
-#EXTINF:-1 tvg-id="37602" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR LIGURIA
-https://allinonereborn.com/4k/m3u.php?id=37602
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+http://ktv.im:8080/0507102290a/0507102290a/49599
+http://ktv.im:8080/556224433k/9004455221/49599
+http://ktv.im:8080/556224433k/9004455221/49590
+http://4kgoott.com:2052/play/live.php?mac=00:1A:79:BA:90:E4&stream=3300&extension=m3u8
 
-#EXTINF:-1 tvg-id="37608" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR LOMBARDIA
-https://allinonereborn.com/4k/m3u.php?id=37608
-
-#EXTINF:-1 tvg-id="37614" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR MARCHE
-https://allinonereborn.com/4k/m3u.php?id=37614
-
-#EXTINF:-1 tvg-id="37620" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR MOLISE
-https://allinonereborn.com/4k/m3u.php?id=37620
-
-#EXTINF:-1 tvg-id="37626" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR PIEMONTE
-https://allinonereborn.com/4k/m3u.php?id=37626
-
-#EXTINF:-1 tvg-id="37632" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR PUGLIA
-https://allinonereborn.com/4k/m3u.php?id=37632
-
-#EXTINF:-1 tvg-id="37638" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR SARDEGNA
-https://allinonereborn.com/4k/m3u.php?id=37638
-
-#EXTINF:-1 tvg-id="37644" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR SICILIA
-https://allinonereborn.com/4k/m3u.php?id=37644
-
-#EXTINF:-1 tvg-id="37650" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR SUDTIROL
-https://allinonereborn.com/4k/m3u.php?id=37650
-
-#EXTINF:-1 tvg-id="37656" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR TOSCANA
-https://allinonereborn.com/4k/m3u.php?id=37656
-
-#EXTINF:-1 tvg-id="37662" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR TRENTINO ALTO ADIGE BOLZANO
-https://allinonereborn.com/4k/m3u.php?id=37662
-
-#EXTINF:-1 tvg-id="37668" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR UMBRIA
-https://allinonereborn.com/4k/m3u.php?id=37668
-
-#EXTINF:-1 tvg-id="37674" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR VALLE D'AOSTA
-https://allinonereborn.com/4k/m3u.php?id=37674
-
-#EXTINF:-1 tvg-id="37680" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",RAI 3 TGR VENETO
-https://allinonereborn.com/4k/m3u.php?id=37680
-
-#EXTINF:-1 tvg-id="37686" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",CANALE 8
-https://allinonereborn.com/4k/m3u.php?id=37686
-
-#EXTINF:-1 tvg-id="37692" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",CANALE 7
-https://allinonereborn.com/4k/m3u.php?id=37692
-
-#EXTINF:-1 tvg-id="37698" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",CANALE 10
-https://allinonereborn.com/4k/m3u.php?id=37698
-
-#EXTINF:-1 tvg-id="37704" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",CANALE 21
-https://allinonereborn.com/4k/m3u.php?id=37704
-
-#EXTINF:-1 tvg-id="37710" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",VETRINA PRIMAFILA
-https://allinonereborn.com/4k/m3u.php?id=37710
-
-#EXTINF:-1 tvg-id="37716" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",SKY PRIMAFILA 1  LIVE
-https://allinonereborn.com/4k/m3u.php?id=37716
-
-#EXTINF:-1 tvg-id="37722" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",SKY PRIMAFILA 2 LIVE
-https://allinonereborn.com/4k/m3u.php?id=37722
-
-#EXTINF:-1 tvg-id="37728" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",SKY PRIMAFILA 4 LIVE
-https://allinonereborn.com/4k/m3u.php?id=37728
-
-#EXTINF:-1 tvg-id="37734" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",SKY PRIMAFILA 3 LIVE
-https://allinonereborn.com/4k/m3u.php?id=37734
-
-#EXTINF:-1 tvg-id="37740" tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/33090.png" group-title="ITALIAN",SKY PRIMAFILA 5 LIVE
-https://allinonereborn.com/4k/m3u.php?id=37740
-
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+http://ktv.im:8080/556224433k/9004455221/49600
+http://ktv.im:8080/556224433k/9004455221/49524
+http://4kgoott.com:2052/play/live.php?mac=00:1A:79:BA:90:E4&stream=16670&extension=m3u8
