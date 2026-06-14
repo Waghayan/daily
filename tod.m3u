@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kgJDdqKS/1000283987.png", FIFA WORLD CUP 2026
-https://edge2.roarzone.net:8447/roarzone/edge1/2/index.ll.m3u8?token=38e604053acba0afd78ce064de0122fbeb422b56-979a2ea232cc5e1f7e154a9fde509e89-1781184924-1781174124
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png", FIFA WORLD CUP 2026
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsvVDJZs/1000284021.png", FIFA WORLD CUP 2026
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9JJ04g9/1000284076.png", FIFA WORLD CUP 2026
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", FIFA WORLD CUP 2026
