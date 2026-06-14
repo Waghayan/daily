@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kgJDdqKS/1000283987.png", FIFA WORLD CUP 2026
+https://edge2.roarzone.net:8447/roarzone/edge1/2/index.ll.m3u8?token=38e604053acba0afd78ce064de0122fbeb422b56-979a2ea232cc5e1f7e154a9fde509e89-1781184924-1781174124
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png", FIFA WORLD CUP 2026
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsvVDJZs/1000284021.png", FIFA WORLD CUP 2026
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9JJ04g9/1000284076.png", FIFA WORLD CUP 2026
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", FIFA WORLD CUP 2026
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", FIFA WORLD CUP 2026
+http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JFScp4g2/1000284128.png", FIFA WORLD CUP 2026
+http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png", FIFA WORLD CUP 2026
+http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xgrmMQ7/1000284130.png", FIFA WORLD CUP 2026
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", FIFA WORLD CUP 2026
+http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png", FIFA WORLD CUP 2026
+http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFfrc99J/1000284330.png", FIFA WORLD CUP 2026
+http://starhub.pro/live/farhat-3379/67897-913379/744525.ts
+
 #EXTINF:-1, FIFA Plus English
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1, FIFA Plus B
