@@ -1,870 +1,257 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="🇦🇱" group-title="🇦🇱 Albania" drama-is-premium="false",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="🇦🇱" group-title="🇦🇱 Albania" drama-is-premium="false",Euronews Albania
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="🇦🇱" group-title="🇦🇱 Albania" drama-is-premium="false",News 24
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="🇦🇱" group-title="🇦🇱 Albania" drama-is-premium="false",Ora News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syri" tvg-logo="🇦🇱" group-title="🇦🇱 Albania" drama-is-premium="false",Syri
-https://stream.syritv.al/live/syritv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Armenia 1" tvg-logo="🇦🇲" group-title="🇦🇲 Armenia" drama-is-premium="false",Armenia 1
-https://dash2.antik.sk/live/test_armenia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Armenia 2" tvg-logo="🇦🇲" group-title="🇦🇲 Armenia" drama-is-premium="false",Armenia 2
-https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="First Channel News" tvg-logo="🇦🇲" group-title="🇦🇲 Armenia" drama-is-premium="false",First Channel News
-https://amtvusdvr.tulix.tv/am3abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KK TV Angola" tvg-logo="🇦🇴" group-title="🇦🇴 Angola" drama-is-premium="false",KK TV Angola
-https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzangala TV" tvg-logo="🇦🇴" group-title="🇦🇴 Angola" drama-is-premium="false",Muzangala TV
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Canal de Noticias" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",24/7 Canal de Noticias
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aire de Santa Fe" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Aire de Santa Fe
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Argentinísima Satelital" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Argentinísima Satelital
-https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azahares Radio Multimedia" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Azahares Radio Multimedia
-https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bayres TV" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Bayres TV
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beats Radio" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Beats Radio
-https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Bravo TV
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
-#EXTINF:-1 tvg-id="" tvg-name="Cable Imagen Armstrong" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Cable Imagen Armstrong
-https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 de Ushuaia" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Canal 2 de Ushuaia
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Misiones" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Canal 2 Misiones
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 La Pampa" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Canal 3 La Pampa
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Jujuy" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Canal 4 Posadas
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Del Pueblo" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Canal 5 Del Pueblo
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Santa Fe" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Canal 5 Santa Fe
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 TV Chepes" tvg-logo="🇦🇷" group-title="🇦🇷 Argentina" drama-is-premium="false",Canal 5 TV Chepes
-https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antenne Kaernten" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Antenne Kaernten
-https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antenne Steiermark" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Antenne Steiermark
-https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Balkan Radio Salzburg" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Balkan Radio Salzburg
-https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FS1 Salzburg" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",FS1 Salzburg
-https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Fuel TV
-https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hitradio Ö3" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Hitradio Ö3
-https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="K-TV" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",K-TV
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIT-TV" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",KIT-TV
-https://everest.pa-hosting.de:3591/live/joseflive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kronehit" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Kronehit
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ländle TV" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Ländle TV
-https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Okto TV" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Okto TV
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="R9" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",R9
-https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Schladming-Dachstein TV" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Schladming-Dachstein TV
-https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Steiermark TV" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Steiermark TV
-https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="" tvg-name="Stimmungsgarten TV" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Stimmungsgarten TV
-https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swamiji TV American" tvg-logo="🇦🇹" group-title="🇦🇹 Austria" drama-is-premium="false",Swamiji TV American
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10 Bold Adelaide" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",10 Bold Adelaide
-https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",ABC News
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ausbiz TV" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",ausbiz TV
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Breaking News by LeadStory" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",Breaking News by LeadStory
-https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C31 Melbourne" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",C31 Melbourne
-https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 44" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",Channel 44
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Come Dine With Me" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",Come Dine With Me
-https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CTB Perth" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",CTB Perth
-https://live.ctbperth.net.au/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CTB Perth Movies" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",CTB Perth Movies
-https://movies.ctbperth.net.au/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CTB Perth News" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",CTB Perth News
-https://news.ctbperth.net.au/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Escape to the Country" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",Escape to the Country
-https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Expo Channel" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",Expo Channel
-https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hardcore Pawn" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",Hardcore Pawn
-https://amg00627-banijay-amg00627c8-samsung-au-1827.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Highway Thru Hell" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",Highway Thru Hell
-https://amg00627-amg00627c15-samsung-au-2899.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History and Warfare Now" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",History and Warfare Now
-https://d28gzbv9fhdm3h.cloudfront.net/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Homeful" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",Homeful
-https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFAST" tvg-logo="🇦🇺" group-title="🇦🇺 Australia" drama-is-premium="false",INFAST
-https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aruba.TV" tvg-logo="🇦🇼" group-title="🇦🇼 Aruba" drama-is-premium="false",Aruba.TV
-https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cool FM 98.9" tvg-logo="🇦🇼" group-title="🇦🇼 Aruba" drama-is-premium="false",Cool FM 98.9
-https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nos Isla TV" tvg-logo="🇦🇼" group-title="🇦🇼 Aruba" drama-is-premium="false",Nos Isla TV
-https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Power 101.7 FM" tvg-logo="🇦🇼" group-title="🇦🇼 Aruba" drama-is-premium="false",Power 101.7 FM
-https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telearuba" tvg-logo="🇦🇼" group-title="🇦🇼 Aruba" drama-is-premium="false",Telearuba
-https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alvin Channel TV" tvg-logo="🇦🇿" group-title="🇦🇿 Azerbaijan" drama-is-premium="false",Alvin Channel TV
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azstar TV" tvg-logo="🇦🇿" group-title="🇦🇿 Azerbaijan" drama-is-premium="false",Azstar TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Malta" tvg-logo="🇧🇦" group-title="🇧🇦 Bosnia and Herzegovina" drama-is-premium="false",Malta
-https://webtvstream.bhtelecom.ba/malta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV IC Kakanj" tvg-logo="🇧🇦" group-title="🇧🇦 Bosnia and Herzegovina" drama-is-premium="false",NTV IC Kakanj
-https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTRS Plus" tvg-logo="🇧🇦" group-title="🇧🇦 Bosnia and Herzegovina" drama-is-premium="false",RTRS Plus
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Herceg-Bosne" tvg-logo="🇧🇦" group-title="🇧🇦 Bosnia and Herzegovina" drama-is-premium="false",RTV Herceg-Bosne
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Zenica" tvg-logo="🇧🇦" group-title="🇧🇦 Bosnia and Herzegovina" drama-is-premium="false",RTV Zenica
-https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televizija 5" tvg-logo="🇧🇦" group-title="🇧🇦 Bosnia and Herzegovina" drama-is-premium="false",Televizija 5
-https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televizija M" tvg-logo="🇧🇦" group-title="🇧🇦 Bosnia and Herzegovina" drama-is-premium="false",Televizija M
-https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="🇧🇩" group-title="🇧🇩 Bangladesh" drama-is-premium="false",Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Madani Channel Bangla" tvg-logo="🇧🇩" group-title="🇧🇩 Bangladesh" drama-is-premium="false",Madani Channel Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",ATV
-https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bel RTL" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",Bel RTL
-https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BX1" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",BX1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Japanim TV" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",Japanim TV
-https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Une" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",La Une
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LN24" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",LN24
-https://live-ln24.digiteka.com/1911668011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MaTele" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",MaTele
-https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Notele" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",Notele
-https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Q-Music (Belgium)" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",Q-Music (Belgium)
-https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Contact" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",Radio Contact
-https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL-TVI" tvg-logo="🇧🇪" group-title="🇧🇪 Belgium" drama-is-premium="false",RTL-TVI
-https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTB" tvg-logo="🇧🇫" group-title="🇧🇫 Burkina Faso" drama-is-premium="false",RTB
-https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTB 3" tvg-logo="🇧🇫" group-title="🇧🇫 Burkina Faso" drama-is-premium="false",RTB 3
-https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Savane TV" tvg-logo="🇧🇫" group-title="🇧🇫 Burkina Faso" drama-is-premium="false",Savane TV
-https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Agro TV" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",Agro TV
-https://restr2.bgtv.bg/agro/hls/agro.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",City TV
-https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Evrokom" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",Evrokom
-https://live.ecomservice.bg/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hope Channel Bulgaria" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",Hope Channel Bulgaria
-https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Light Channel" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",Light Channel
-https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Magic TV" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",Magic TV
-https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Voice TV" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",The Voice TV
-https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria HD" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",This is Bulgaria HD
-https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tiankov Folk" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",Tiankov Folk
-https://streamer103.neterra.tv/tiankov-folk/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tiankov Orient Folk" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",Tiankov Orient Folk
-https://streamer103.neterra.tv/tiankov-orient/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="🇧🇬" group-title="🇧🇬 Bulgaria" drama-is-premium="false",Travel TV
-https://streamer103.neterra.tv/travel/live.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Adesso TV" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Adesso TV
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Sat" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AWTV" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",AWTV
-https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BDC TV" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",BDC TV
-https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Canal 25 Jundiaí
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 38" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Canal 38
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Educação" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Canal Educação
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Gov" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chroma TV" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Chroma TV
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Classique TV" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Classique TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COM Brasil" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",COM Brasil
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ConecTV Brasil" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",ConecTV Brasil
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conexão TV" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Conexão TV
-https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CWB TV" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",CWB TV
-https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Demais TV" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Demais TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Despertar TV" tvg-logo="🇧🇷" group-title="🇧🇷 Brazil" drama-is-premium="false",Despertar TV
-https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guardian Talk Radio" tvg-logo="🇧🇸" group-title="🇧🇸 Bahamas" drama-is-premium="false",Guardian Talk Radio
-https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Island Luck TV" tvg-logo="🇧🇸" group-title="🇧🇸 Bahamas" drama-is-premium="false",Island Luck TV
-https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Parliamentary Channel" tvg-logo="🇧🇸" group-title="🇧🇸 Bahamas" drama-is-premium="false",The Parliamentary Channel
-https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZNS-TV" tvg-logo="🇧🇸" group-title="🇧🇸 Bahamas" drama-is-premium="false",ZNS-TV
-https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Беларусь 2" tvg-logo="🇧🇾" group-title="🇧🇾 Belarus" drama-is-premium="false",Беларусь 2
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Беларусь 5" tvg-logo="🇧🇾" group-title="🇧🇾 Belarus" drama-is-premium="false",Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Беларусь 24" tvg-logo="🇧🇾" group-title="🇧🇾 Belarus" drama-is-premium="false",Беларусь 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Первый информационный" tvg-logo="🇧🇾" group-title="🇧🇾 Belarus" drama-is-premium="false",Первый информационный
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="СТБ" tvg-logo="🇧🇾" group-title="🇧🇾 Belarus" drama-is-premium="false",СТБ
-https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guadalupe Media" tvg-logo="🇧🇿" group-title="🇧🇿 Belize" drama-is-premium="false",Guadalupe Media
-https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Television" tvg-logo="🇧🇿" group-title="🇧🇿 Belize" drama-is-premium="false",Love Television
-https://streamer2.nexgen.bz/01-LOVE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Canada" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",3ABN Canada
-https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amazing Discoveries TV" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apna Punjab TV" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",Apna Punjab TV
-https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Az Star TV" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",Az Star TV
-https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C Malayalam TV" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",C Malayalam TV
-https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cable 14 Hamilton" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",Cable 14 Hamilton
-https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
-#EXTINF:-1 tvg-id="" tvg-name="CBC News Network" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",CBC News Network
-https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHCO-TV" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",CHCO-TV
-https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CityNews Calgary" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",CityNews Calgary
-https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CityNews Edmonton" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",CityNews Edmonton
-https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CityNews Toronto" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",CityNews Toronto
-https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CityNews Vancouver" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",CityNews Vancouver
-https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cowboy Channel" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",Cowboy Channel
-https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8?ads.vf=6g9ilXeXVD8
-#EXTINF:-1 tvg-id="" tvg-name="Deshi TV" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eawaz TV" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",Eawaz TV
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EET TV" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",EET TV
-https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Erfan Halgheh TV" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",Erfan Halgheh TV
-https://hls.erfanhalgheh.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Feva TV" tvg-logo="🇨🇦" group-title="🇨🇦 Canada" drama-is-premium="false",Feva TV
-https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal Alpha Jura" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Canal Alpha Jura
-https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Alpha Neuchatel" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Canal Alpha Neuchatel
-https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Carac 1" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Carac 1
-https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Carac 2" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Carac 2
-https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Carac 3" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Carac 3
-https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Carac 4" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Carac 4
-https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Couleur 3" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Couleur 3
-https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Die Neue Zeit" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Die Neue Zeit
-https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drita TV" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Drita TV
-https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Immaculata TV" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Immaculata TV
-https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MaxTV/Dieu TV" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",MaxTV/Dieu TV
-https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QS24.tv" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",QS24.tv
-https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio 3i" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Radio 3i
-https://vstream-cdn.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO DISCOunt TV" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",RADIO DISCOunt TV
-https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Islam" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",RTV Islam
-https://protokolldns.xyz/rtvislamweb554/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Pendimi" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",RTV Pendimi
-https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sivan TV" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",Sivan TV
-https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeleTicino" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",TeleTicino
-https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Rheintal" tvg-logo="🇨🇭" group-title="🇨🇭 Switzerland" drama-is-premium="false",TV Rheintal
-https://rtmp-vm.fidion.de/live/tvrt.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="1-2-3 TV" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",1-2-3 TV
-https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alex Berlin" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Alex Berlin
-https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Allgäu TV" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Allgäu TV
-https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anixe +" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Anixe +
-https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anixe HD Serie" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Anixe HD Serie
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARD-alpha" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",ARD-alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aristo TV" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Aristo TV
-https://ma.anixa.tv/clips/stream/aristo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="arte HD" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",arte HD
-https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Augsburg TV" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Augsburg TV
-https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Autentic History" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Autentic History
-https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Autentic Travel" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Autentic Travel
-https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baden TV" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Baden TV
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baden TV Süd" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Baden TV Süd
-https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Top Gear Germany" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",BBC Top Gear Germany
-https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bibel TV" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Bibel TV
-https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bibel TV Impuls" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Bibel TV Impuls
-https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bibel TV Musik" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Bibel TV Musik
-https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chemnitz Fernsehen" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Chemnitz Fernsehen
-https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Asia Vietnam" tvg-logo="🇩🇪" group-title="🇩🇪 Germany" drama-is-premium="false",Da Vinci Asia Vietnam
-https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DR1" tvg-logo="🇩🇰" group-title="🇩🇰 Denmark" drama-is-premium="false",DR1
-https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DRTV" tvg-logo="🇩🇰" group-title="🇩🇰 Denmark" drama-is-premium="false",DRTV
-https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folketinget" tvg-logo="🇩🇰" group-title="🇩🇰 Denmark" drama-is-premium="false",Folketinget
-https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 2/Bornholm" tvg-logo="🇩🇰" group-title="🇩🇰 Denmark" drama-is-premium="false",TV 2/Bornholm
-https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="3Cat Càmeres del temps" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",3Cat Càmeres del temps
-https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3Cat El búnquer" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",3Cat El búnquer
-https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3Cat Plats bruts" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",3Cat Plats bruts
-https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3CatInfo" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",3CatInfo
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="7 TeleValencia" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",7 TeleValencia
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12TV Alicante" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",12TV Alicante
-https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",24 Horas
-https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="28 kanala" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",28 kanala
-https://streaming.28kanala.eus/hls/z.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="101tv Axarquia" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",101tv Axarquia
-https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Activa TV" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",Activa TV
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Actualidad 360" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",Actualidad 360
-https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",Alcarria TV
-https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anime Vision" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",Anime Vision
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anime Vision Classics" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",Anime Vision Classics
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arabí TV" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",Arabí TV
-https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aragon TV Internacional" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",Aragon TV Internacional
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BCN Gospel TV" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",BCN Gospel TV
-https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beyblade en Español" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",Beyblade en Español
-https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bon Dia TV" tvg-logo="🇪🇸" group-title="🇪🇸 Spain" drama-is-premium="false",Bon Dia TV
-https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="5-Minute Craft" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",5-Minute Craft
-https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Top Gear Finland" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",BBC Top Gear Finland
-https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Come Dine With Me" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",Come Dine With Me
-https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eveo" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",Eveo
-https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="" tvg-name="Himlen TV7" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",Himlen TV7
-https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="InTravel" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",InTravel
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jim" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",Jim
-https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="" tvg-name="JRTV Järviradio" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",JRTV Järviradio
-https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Liv" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",Liv
-https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="" tvg-name="MTV Ava" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",MTV Ava
-https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Sub" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",MTV Sub
-https://live-fi.tvkaista.net/sub/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Uutiset" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",MTV Uutiset
-https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV3" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",MTV3
-https://live-fi.tvkaista.net/mtv3/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NärTV" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",NärTV
-https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NatureTime Finland" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",NatureTime Finland
-https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nelonen" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",Nelonen
-https://live-fi.tvkaista.net/nelonen/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nopola News" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",Nopola News
-https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Onni TV" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",Onni TV
-https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Romance Movies Finland" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",Rakuten TV Romance Movies Finland
-https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR Channel (Finland)" tvg-logo="🇫🇮" group-title="🇫🇮 Finland" drama-is-premium="false",STAR Channel (Finland)
-https://live-fi.tvkaista.net/star-channel/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KVF" tvg-logo="🇫🇴" group-title="🇫🇴 Faroe Islands" drama-is-premium="false",KVF
-https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KVF Sjonvarp" tvg-logo="🇫🇴" group-title="🇫🇴 Faroe Islands" drama-is-premium="false",KVF Sjonvarp
-https://live.kringvarp.fo/uttanlands/720/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="4 Kurd" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",4 Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20 Minutes TV" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",20 Minutes TV
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADN TV+" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",ADN TV+
-https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Africa 24" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",Africa 24
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Africa 24 English" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",Africa 24 English
-https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Africa 24 Sport" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",Africa 24 Sport
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Africanews" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",Africanews
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.vf=OXCCriJ8fFq
-#EXTINF:-1 tvg-id="" tvg-name="Africanews" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",Africanews
-https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Africanews French" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",Africanews French
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alpe d’Huez TV" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",Alpe d’Huez TV
-https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antenne Réunion" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",Antenne Réunion
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 tvg-id="" tvg-name="Banijay Mr Bean Animé" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",Banijay Mr Bean Animé
-https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Top Gear France" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",BBC Top Gear France
-https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",Beyblade
-https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFM 2" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",BFM 2
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="" tvg-name="BFM Alsace" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",BFM Alsace
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="" tvg-name="BFM Business" tvg-logo="🇫🇷" group-title="🇫🇷 France" drama-is-premium="false",BFM Business
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Acheloos TV" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Acheloos TV
-https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action 24" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Action 24
-https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aeolos TV" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Aeolos TV
-https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ART TV" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",ART TV
-https://rtmp.win:3696/live/arttvgrlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baraza TV Deep House" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Baraza TV Deep House
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baraza TV Relaxing" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Baraza TV Relaxing
-https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Best TV" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Best TV
-https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blue Sky TV" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Blue Sky TV
-https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Corfu Channel" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Corfu Channel
-https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Egnatia TV" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Egnatia TV
-https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Faros TV2" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Faros TV2
-https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gnomi TV" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Gnomi TV
-https://live.streams.ovh:8081/gnomitv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ionian Channel" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Ionian Channel
-https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kontra Channel" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Kontra Channel
-https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lychnos TV" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Lychnos TV
-https://thor.mental-media.gr:19360/imp/imp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Notioi TV" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",Notioi TV
-https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRG TV" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",NRG TV
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="One Channel" tvg-logo="🇬🇷" group-title="🇬🇷 Greece" drama-is-premium="false",One Channel
-https://onechannel.siliconweb.com/one/stream/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RÚV" tvg-logo="🇮🇸" group-title="🇮🇸 Iceland" drama-is-premium="false",RÚV
-https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RÚV 2" tvg-logo="🇮🇸" group-title="🇮🇸 Iceland" drama-is-premium="false",RÚV 2
-https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vísir" tvg-logo="🇮🇸" group-title="🇮🇸 Iceland" drama-is-premium="false",Vísir
-https://live.visir.is/hls-live/visir.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="7 RadioVisione" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",7 RadioVisione
-https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="7 YOU & ME" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",7 YOU & ME
-https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12 TV Parma" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",12 TV Parma
-https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="51 Radio TV" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",51 Radio TV
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="70-80 TV (1080P)" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",70-80 TV (1080P)
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="111 TV" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",111 TV
-https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A2i TV" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",A2i TV
-https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ACI Sport TV" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",ACI Sport TV
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alto Adige TV" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",Alto Adige TV
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antenna 2 TV" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",Antenna 2 TV
-https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aurora Arte" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",Aurora Arte
-https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azzurra TV" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",Azzurra TV
-https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Drama Italy" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",BBC Drama Italy
-https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Top Gear Italy" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",BBC Top Gear Italy
-https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeJoy.kids" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",BeJoy.kids
-https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bergamo TV" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",Bergamo TV
-https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bom Channel" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",Bom Channel
-https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CafeTV24" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",CafeTV24
-https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Calabria TV" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",Calabria TV
-https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Camera dei Deputati (via RR)" tvg-logo="🇮🇹" group-title="🇮🇹 Italy" drama-is-premium="false",Camera dei Deputati (via RR)
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="apart TV" tvg-logo="🇱🇺" group-title="🇱🇺 Luxembourg" drama-is-premium="false",apart TV
-https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chamber TV" tvg-logo="🇱🇺" group-title="🇱🇺 Luxembourg" drama-is-premium="false",Chamber TV
-https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dudelange TV" tvg-logo="🇱🇺" group-title="🇱🇺 Luxembourg" drama-is-premium="false",Dudelange TV
-https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="eldo.TV" tvg-logo="🇱🇺" group-title="🇱🇺 Luxembourg" drama-is-premium="false",eldo.TV
-https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hesper TV" tvg-logo="🇱🇺" group-title="🇱🇺 Luxembourg" drama-is-premium="false",Hesper TV
-https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mamer TV" tvg-logo="🇱🇺" group-title="🇱🇺 Luxembourg" drama-is-premium="false",Mamer TV
-https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MierschTV" tvg-logo="🇱🇺" group-title="🇱🇺 Luxembourg" drama-is-premium="false",MierschTV
-https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pétange Info TV" tvg-logo="🇱🇺" group-title="🇱🇺 Luxembourg" drama-is-premium="false",Pétange Info TV
-https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL Gold" tvg-logo="🇱🇺" group-title="🇱🇺 Luxembourg" drama-is-premium="false",RTL Gold
-https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL Today Radio" tvg-logo="🇱🇺" group-title="🇱🇺 Luxembourg" drama-is-premium="false",RTL Today Radio
-https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pingvīns" tvg-logo="🇱🇻" group-title="🇱🇻 Latvia" drama-is-premium="false",Pingvīns
-https://sirius.greenhosting.ru/PingvinRu/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio SWH TV" tvg-logo="🇱🇻" group-title="🇱🇻 Latvia" drama-is-premium="false",Radio SWH TV
-https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Re TV" tvg-logo="🇱🇻" group-title="🇱🇻 Latvia" drama-is-premium="false",Re TV
-https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Jūrmala" tvg-logo="🇱🇻" group-title="🇱🇻 Latvia" drama-is-premium="false",TV Jūrmala
-https://air.star.lv/TV_Jurmala_multistream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVNET" tvg-logo="🇱🇻" group-title="🇱🇻 Latvia" drama-is-premium="false",TVNET
-https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vidusdaugavas Televīzija" tvg-logo="🇱🇻" group-title="🇱🇻 Latvia" drama-is-premium="false",Vidusdaugavas Televīzija
-https://straume.vdtv.lv/vdtv2/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Monaco Info" tvg-logo="🇲🇨" group-title="🇲🇨 Monaco" drama-is-premium="false",Monaco Info
-https://webtv.monacoinfo.com/live/prod/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Superyacht TV" tvg-logo="🇲🇨" group-title="🇲🇨 Monaco" drama-is-premium="false",Superyacht TV
-https://sy.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Monaco" tvg-logo="🇲🇨" group-title="🇲🇨 Monaco" drama-is-premium="false",TV Monaco
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moldova 1" tvg-logo="🇲🇩" group-title="🇲🇩 Moldova" drama-is-premium="false",Moldova 1
-https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moldova 2" tvg-logo="🇲🇩" group-title="🇲🇩 Moldova" drama-is-premium="false",Moldova 2
-https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Privesc.Eu TV" tvg-logo="🇲🇩" group-title="🇲🇩 Moldova" drama-is-premium="false",Privesc.Eu TV
-https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRO TV Chisinau" tvg-logo="🇲🇩" group-title="🇲🇩 Moldova" drama-is-premium="false",PRO TV Chisinau
-https://stream.protv.md/live/sursa-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rlive TV" tvg-logo="🇲🇩" group-title="🇲🇩 Moldova" drama-is-premium="false",Rlive TV
-https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV-Nord" tvg-logo="🇲🇩" group-title="🇲🇩 Moldova" drama-is-premium="false",TV-Nord
-https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVR Moldova HD" tvg-logo="🇲🇩" group-title="🇲🇩 Moldova" drama-is-premium="false",TVR Moldova HD
-https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Niksic" tvg-logo="🇲🇪" group-title="🇲🇪 Montenegro" drama-is-premium="false",TV Niksic
-https://tv.rtv-niksic.me/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCG MNE" tvg-logo="🇲🇪" group-title="🇲🇪 Montenegro" drama-is-premium="false",TVCG MNE
-https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M-Net HD" tvg-logo="🇲🇰" group-title="🇲🇰 North Macedonia" drama-is-premium="false",M-Net HD
-https://live.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M-Net Info" tvg-logo="🇲🇰" group-title="🇲🇰 North Macedonia" drama-is-premium="false",M-Net Info
-https://live.mnet.mk/hls/mnet-info.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Naša TV" tvg-logo="🇲🇰" group-title="🇲🇰 North Macedonia" drama-is-premium="false",Naša TV
-https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Folk TV" tvg-logo="🇲🇰" group-title="🇲🇰 North Macedonia" drama-is-premium="false",Sky Folk TV
-https://eu.live.skyfolk.mk/live.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="1Almere TV" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",1Almere TV
-https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1Twente TV" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",1Twente TV
-https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A1 TV" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",A1 TV
-https://stream.a1mediagroep.nl/hls/a1tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Altena TV" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",Altena TV
-https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BE@TTV" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",BE@TTV
-https://tv.beatfm.nl/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BNR Nieuwsradio" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",BNR Nieuwsradio
-https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dit is Helmond" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",Dit is Helmond
-https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FomixTV" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gigant FM" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",Gigant FM
-https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Haarlem105 RTV" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",Haarlem105 RTV
-https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hype Visual Radio" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",Hype Visual Radio
-https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ideaal TV" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",Ideaal TV
-https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFAST" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",INFAST
-https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="InTrouble" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",InTrouble
-https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INWONDER" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",INWONDER
-https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jin TV" tvg-logo="🇳🇱" group-title="🇳🇱 Netherlands" drama-is-premium="false",Jin TV
-https://live.jintv.org/medialive/jintv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Motor" tvg-logo="🇳🇴" group-title="🇳🇴 Norway" drama-is-premium="false",Canal Motor
-https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Frikanalen" tvg-logo="🇳🇴" group-title="🇳🇴 Norway" drama-is-premium="false",Frikanalen
-https://frikanalen.no/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Østfold" tvg-logo="🇳🇴" group-title="🇳🇴 Norway" drama-is-premium="false",TV Østfold
-https://streamnorge.com:8088/hls/tvo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Capital TV" tvg-logo="🇳🇵" group-title="🇳🇵 Nepal" drama-is-premium="false",Capital TV
-https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Divya Darshan TV" tvg-logo="🇳🇵" group-title="🇳🇵 Nepal" drama-is-premium="false",Divya Darshan TV
-https://live.divyadarshantv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kantipur TV" tvg-logo="🇳🇵" group-title="🇳🇵 Nepal" drama-is-premium="false",Kantipur TV
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Action Hollywood Movies
+#EXTINF:-1, FIFA Plus English
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1, FIFA Plus B
+https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+#EXTINF:-1, Fox Sports 2 - (FIFA)
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
+#EXTINF:-1, Tyc Sports - ARG 🇦🇷
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1, Tyc Sports B - ARG 🇦🇷
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+#EXTINF:-1, DSports HD - ARG 🇦🇷
+http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
+#EXTINF:-1, Caze TV - BRA 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1, Caze TV B - BRA 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1,BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1,Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1, DAZN 1 HD
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1, DAZN 2 HD
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:-1, DAZN 3 HD
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:-1, DAZN 4 HD
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:-1, DAZN 5 HD
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:-1, Bein Sports  - 🇫🇷 (FIFA)
+http://145.239.5.177/559/mpegts
+#EXTINF:-1, Bein Sports 2 B- 🇫🇷 (FIFA)
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-1, Bein Sports 1 - 🇷🇸 (FIFA)
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1, Bein Sports 2 - 🇷🇸 (FIFA)
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+#EXTINF:-1, TUDN 1080 (FIFA)
+http://177.10.184.60:8002/play/a013/index.m3u8
+#EXTINF:-1, Bein Sports 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+#EXTINF:-1, Bein Sports 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:-1, Bein Sports 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+#EXTINF:-1, Bein Sports 4
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1, beIN Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1, Bein Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1, Bein Sports 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1, Bein Sports 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1, Bein Sports 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1, Cricbuzz HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
+#EXTINF:-1, Willow HD TV
+https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
+#EXTINF:-1, T Sports HD
+http://27.124.71.27/T-Sports/index.m3u8
+#EXTINF:-1, T Sports B
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
+#EXTINF:-1, Euro TV
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+#EXTINF:-1, Star Sports 1
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Star Sports 1 B
+https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-1, Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+#EXTINF:-1, ESPN
+https://tvsen5.aynaott.com/espn/index.m3u8
+#EXTINF:-1, ASports
+https://tvsen6.aynaott.com/asports/index.m3u8
+#EXTINF:-1, PTV Sports (FIFA)
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-1, TSN 1
+https://tvsen7.aynaott.com/tsn1/index.m3u8
+#EXTINF:-1, TSN 2
+https://tvsen7.aynaott.com/tsn2/index.m3u8
+#EXTINF:-1, TSN 3
+https://tvsen7.aynaott.com/tsn3/index.m3u8
+#EXTINF:-1, Star Jalsha
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1, Zee Bangla
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
+#EXTINF:-1, Colors Bangla
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
+#EXTINF:-1, Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
+#EXTINF:-1, Sony Aath
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony Aath B
+http://103.180.212.191:3500/live/697.m3u8
+#EXTINF:-1, G Series Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, SRK Tv
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1, Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1, Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1, Goldmines Bollywood
+https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
+#EXTINF:-1, Jalsha Movies
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Hindi Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1, South India Movie
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Action Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Breaking News by LeadStory" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Breaking News by LeadStory
-https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eggheads" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Eggheads
-https://amg00654-itv-amg00654c18-samsung-nz-4373.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Firstlight" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Firstlight
-https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hardcore Pawn" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Hardcore Pawn
-https://amg00627-banijay-amg00627c8-samsung-nz-1828.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Highway Thru Hell" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Highway Thru Hell
-https://amg00627-amg00627c15-samsung-nz-2900.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History and Warfare Now" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",History and Warfare Now
-https://amg00376-magellan-amg00376c19-samsung-nz-1735.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Homeful" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Homeful
-https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFAST" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",INFAST
-https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Juice TV" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Juice TV
-https://juicex.nz/hls/mystream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kordia TV" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Kordia TV
-https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MovieSphere" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",MovieSphere
-https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTRSPT 1" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",MTRSPT 1
-https://amg02873-kravemedia-mtrspt1-samsungnz-k70ln.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Parliament TV" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Parliament TV
-https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PBS History" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",PBS History
-https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pulse TV" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Pulse TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCM" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",RCM
-https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Surf Cinema" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Surf Cinema
-https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Chat Show Channel" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",The Chat Show Channel
-https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wairarapa TV" tvg-logo="🇳🇿" group-title="🇳🇿 New Zealand" drama-is-premium="false",Wairarapa TV
-https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ATG Live" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",ATG Live
-https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Di TV" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",Di TV
-https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Expressen TV" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",Expressen TV
-https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Komala TV" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",Komala TV
-https://live.tvkomala.com/live/komala/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LifeStyleTV" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",LifeStyleTV
-https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Magazine" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",Love Magazine
-https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Pets" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",Love Pets
-https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Miracle TV" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",Miracle TV
-https://live.miracleonline.org/hls/miracle1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mission Asia" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",Mission Asia
-https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Myzen Fit" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",Myzen Fit
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Chat Show Channel" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",The Chat Show Channel
-https://amg00426-littledotstudio-thechatshow-samsungse-n39q0.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Wicked Tuna Channel" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",The Wicked Tuna Channel
-https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Waterbear" tvg-logo="🇸🇪" group-title="🇸🇪 Sweden" drama-is-premium="false",Waterbear
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Dare To Dream Network" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",3ABN Dare To Dream Network
-https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3ABN English" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",3ABN English
-https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3ABN French" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",3ABN French
-https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3ABN International Network" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",3ABN International Network
-https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Kids Network" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",3ABN Kids Network
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Latino" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Praise Him Music Network" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",3ABN Praise Him Music Network
-https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Proclaim! Network" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",3ABN Proclaim! Network
-https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="6 Wise Tv" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",6 Wise Tv
-https://live.enhdtv.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 Hour Free Movies" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",24 Hour Free Movies
-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30A Darcizzle Offshore" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",30A Darcizzle Offshore
-https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30A Georgia Hollywood Review TV" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",30A Georgia Hollywood Review TV
-https://30a-tv.com/gh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30A Golf Kingdom" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",30A Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30A Investment Pitch" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",30A Investment Pitch
-https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30A Luxe Life Discovered" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",30A Luxe Life Discovered
-https://30a-tv.com/feeds/vidaa/luxelife.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30A Music" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",30A Music
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30A Ridiculous TV" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",30A Ridiculous TV
-https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30A Sidewalks" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",30A Sidewalks
-https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30A Television Channel" tvg-logo="🇺🇸" group-title="🇺🇸 United States" drama-is-premium="false",30A Television Channel
-https://30a-tv.com/feeds/masters/30atv.m3u8
-
-
+#EXTINF:-1, Song Max
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max&e=.m3u8
+#EXTINF:-1, Sony Max HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max_hd&e=.m3u8
+#EXTINF:-1, Sony Max 2
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonymax_2&e=.m3u8
+#EXTINF:-1, Star Gold
+http://198.195.239.50:8095/StarGold/index.m3u8
+#EXTINF:-1, 9X Tashan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1, 9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1, 9X Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1, Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1, Bengali Beat
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1, Albania Music
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1, Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
+#EXTINF:-1, Party Universe B
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#EXTINF:-1, Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Tom & Jerry TV
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Bantul The Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Nick Bangla
+http://103.204.43.87:8080/live/1/1/275.m3u8
+#EXTINF:-1, Sonic Bangla
+http://103.204.43.87:8080/live/1/1/274.m3u8
+#EXTINF:-1, Doraemon TV
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Oggy and the Cockroaches
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1, Cartoon Network
+https://tvsen5.aynaott.com/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Gopal Bhar TV
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Duronto Live
+https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3da514e08a15c80daed60a18b3f423fa
+#EXTINF:-1,Asian TV
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+#EXTINF:-1,ATN News HD
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
+#EXTINF:-1,Ayna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Ananda TV
+https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1779283759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=504b9350b4703116ca4ab20e4013288e
+#EXTINF:-1,Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1181200.m3u8
+#EXTINF:-1,BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1,Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3ce64c165e70832dc446d5fe776bb64b
+#EXTINF:-1,Boishakhi TV
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1779283755&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3f4ec98ffbd9567c21e8b2ee98e32d5
+#EXTINF:-1, Bangla Tv
+https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779283758&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3e9e2737e35147900c0f4add619ead6
+#EXTINF:-1, Channel I
+https://tvsen6.aynaott.com/channeli/index.m3u8?e=1779283749&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1d2782c406bc6c9f853716c3dc41a439
+#EXTINF:-1,Channel 1 TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+#EXTINF:-1,Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1181200.m3u8
+#EXTINF:-1,Channel S TV
+https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
+#EXTINF:-1,DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1,Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1,Desh TV
+https://tvsen6.aynaott.com/deshtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Ekhon TV
+https://tvsen6.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Ekattor TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
+#EXTINF:-1,Ekushe TV
+https://tvsen6.aynaott.com/etv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Independent TV
+https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1,Jamuna TV
+https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1779283771&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2592d440f00d65738bd7f6c5158ce486
+#EXTINF:-1,Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
+#EXTINF:-1,Mohona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1, My Tv
+https://tvsen6.aynaott.com/mytv/index.m3u8?e=1779283760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0a2ae0189a44e789d3fecffe5a474ec3
+#EXTINF:-1, Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1,Nexus TV
+https://tvsen6.aynaott.com/nexustv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1,NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
+#EXTINF:-1,RTV Live
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1,Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=1181200.m3u8
+#EXTINF:-1, SA Tv
+https://tvsen6.aynaott.com/satv/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=336f19de5e4aacae753d7524d86d1a89
+#EXTINF:-1, Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
+#EXTINF:-1, Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
+#EXTINF:-1, Discovery Bangla
+http://103.180.212.191:3500/live/573.m3u8
+#EXTINF:-1, Discovery Hindi
+http://103.180.212.191:3500/live/3428.m3u8
+#EXTINF:-1, Discovery Hindi B
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+#EXTINF:-1, Geography HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1, Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+#EXTINF:-1, Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1, Animal Planet
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
