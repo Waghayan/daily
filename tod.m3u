@@ -1,5 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1Wvy09C/1000283988.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 HD
+http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1Wvy09C/1000283988.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 HD
+http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7mpW5pf/1000284104.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 FHD
+https://aponn.vercel.app/us1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZCRC7ds/1000284105.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 FHD
+https://aponn.vercel.app/us2.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 FHD
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TD6fkDPj/1000284537.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 FHD
+http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 UHD
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C32Rhtff/1000284518.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 UHD
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xgrmMQ7/1000284130.png", FIFA WORLD CUP 2026
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", FIFA WORLD CUP 2026
@@ -8,16 +29,12 @@ http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
 http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xgrmMQ7/1000284130.png", FIFA WORLD CUP 2026
-https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFfrc99J/1000284330.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744525.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFTH5Vnb/1000284331.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744526.ts
 
@@ -31,22 +48,3 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9JJ04g9/1000284076.png", FIFA WORLD CUP 2026
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JFScp4g2/1000284128.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xgrmMQ7/1000284130.png", FIFA WORLD CUP 2026
-https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
-
-
-
-
-
