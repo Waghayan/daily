@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FIFA World Cup", Bein Sports Max 1
-http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
-#EXTINF:-1 group-title="FIFA World Cup", Bein Sports Max 2
-http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
-#EXTINF:-1 group-title="FIFA World Cup", Bein Sports Max 3
-http://starhub.pro/live/farhat-3379/67897-913379/744525.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", Bein Sports Max 1
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png", Bein Sports Max 2
