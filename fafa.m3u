@@ -3,6 +3,25 @@
 http://99.27.51.147:8080/BeinSport/index.m3u8
 #EXTINF:-1 ,Bein Sport 3 🇫🇷
 http://99.27.51.147:8080/BeinSport3/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORTS France (alt)
+http://99.27.51.147:8080/BeinSport/mpeg.ts
+#EXTINF:-1 ,BEIN SPORTS 3 France (Alt)
+http://99.27.51.147:8080/BeinSport3/mpeg.ts
+#EXTINF:-1 ,BEIN SPORTS 3 France (Alt2)
+http://145.239.5.177/559/mpeg.ts
+
+#EXTINF:-1 ,Bein Sport 3 🇫🇷
+http://145.239.5.177:80/559/index.m3u8
+
+#EXTINF:-1 ,Bein Sport 1 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 ,Bein Sport 3 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 ,Bein Sport 1 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 ,Bein Sport 3 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
 #EXTINF:-1 ,BEIN MAX 1
 https://stream.kurdtv.live/bein-max/index.m3u8
 #EXTINF:-1 ,BEIN MAX 2
