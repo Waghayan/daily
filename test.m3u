@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h1Wvy09C/1000283988.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1Wvy09C/1000283988.png" group-title="BeiN FIFA World Cup", BeiN FIFA WORLD CUP 2026 HD
 http://198.195.239.50:8095/tsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7mpW5pf/1000284104.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7mpW5pf/1000284104.png" group-title="BeiN FIFA World Cup", BeiN FIFA WORLD CUP 2026 FHD
 https://aponn.vercel.app/us1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZCRC7ds/1000284105.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZCRC7ds/1000284105.png" group-title="BeiN FIFA World Cup", BeiN FIFA WORLD CUP 2026 FHD
 https://aponn.vercel.app/us2.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Somoy
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
