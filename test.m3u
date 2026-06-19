@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h1Wvy09C/1000283988.png" group-title="BeiN FIFA World Cup", BeiN FIFA WORLD CUP 2026 HD
+#EXTINF:-1 
 http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7mpW5pf/1000284104.png" group-title="BeiN FIFA World Cup", BeiN FIFA WORLD CUP 2026 FHD
 https://aponn.vercel.app/us1.m3u8
@@ -8,7 +8,7 @@ https://aponn.vercel.app/us2.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Somoy
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Bein Sports 1 720p
+#EXTINF:-1 
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",beIN SPORTS 1 UHD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
@@ -20,7 +20,7 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",FS2
+#EXTINF:-1  group-title="FIFA",FS2
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",T sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
