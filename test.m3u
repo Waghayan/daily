@@ -15,3 +15,5 @@ http://starhub.pro/live/farhat-3379/67897-913379/744525.ts
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png", GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/BRUNEI-LOGO/refs/heads/main/RTB%20GO.png" group-title="WORLD CUP 2026",RTB GO
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
