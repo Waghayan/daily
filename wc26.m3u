@@ -32,29 +32,8 @@ https://pul-tenm.nbs3g.com/live/hd-en-1-4460916.m3u8?txSecret=70eff77dec4e75a94f
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
 
 
-#EXTINF:-1,Colors HD - FIFA WC26 (BANGLA)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-
-#EXTINF:-1,Shamshad Television
-https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
-
-#EXTINF:-1,Wurl Stream
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrakV... (keep full URL)
-
-#EXTINF:-1,Zee Bangla Shonar
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
-
-#EXTINF:-1,Win Sports 2 (Link 117)
-https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
-
-
-#EXTINF:-1,Sportsnet
-https://ogilbert.s3.us-east-1.amazonaws.com/sportsnet.m3u8
-
-
 #EXTINF:-1 tvg-name="GO Live" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png", RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
@@ -64,6 +43,7 @@ http://193.239.186.231/BBC1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Live Tv",GO LIVE 2
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+
 #EXTINF:-1 tvg-name="TVP Sports" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Tvp
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Live Tv",WIN Sport
@@ -72,32 +52,18 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", FR beIN 2
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-name="Tudn Sports" tvg-logo="https://upload.wikimedia.org/wiki.../1280px-2026_FIFA_World_Cup_emblem.svg.png",TUDN
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Live Tv",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Live Tv",FIFA WORLD CUP LIVE-3
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
-
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Live Tv",FIFA WORLD CUP LIVE-7
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", FR beIN 1
 https://rs33.oneomegasolar.org/hls/bein-sports-1-hd-fr/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png", FOX
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 tvg-name="GO Live" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",GO Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png", RTB GO
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
-#EXTINF:-1 tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",Dazn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png", Dazn
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1 tvg-name="D Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",D sport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png", D sport
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMBnLS9h/1000284536.png" group-title="FIFA World Cup", FIFA WORLD CUP 2026 FHD
