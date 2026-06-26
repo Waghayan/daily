@@ -11,15 +11,11 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png", RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:0 group-title="UK",BBC ONE
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" ,BBC One
 http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:0 group-title="UK",BBC TWO
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://images.open-epg.com/x364.png" ,BBC Two
 http://193.239.187.97/BBC2/index.m3u8
 
-
-
-#EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" ,BBC One
-http://193.239.186.231/BBC1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Live Tv",GO LIVE 2
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
