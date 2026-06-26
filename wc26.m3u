@@ -1,9 +1,38 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" ,BBC One
-http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://images.open-epg.com/x364.png" ,BBC Two
-http://193.239.187.97/BBC2/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://iili.io/CB24mQa.png" group-title="بين سبورت",beIN Sports Max 1 SD كاس العالم 🏆
+http://185.191.126.127:8080/live///omar777/01103978590/460863.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB24mQa.png" group-title="بين سبورت",beIN Sports Max 1 HD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460862.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB24mQa.png" group-title="بين سبورت",beIN Sports Max 1 4K كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460861.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB26uvS.png" group-title="بين سبورت",beIN Sports Max 2 SD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460866.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB26uvS.png" group-title="بين سبورت",beIN Sports Max 2 HD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460865.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB26uvS.png" group-title="بين سبورت",beIN Sports Max 2 4K كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460870.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB26VyP.png" group-title="بين سبورت",beIN Sports Max 3 SD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460869.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB26VyP.png" group-title="بين سبورت",beIN Sports Max 3 HD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460868.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB26VyP.png" group-title="بين سبورت",beIN Sports Max 3 4K كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460867.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB26vFR.png" group-title="بين سبورت",beIN Sports Max 4 SD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460872.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB26vFR.png" group-title="بين سبورت",beIN Sports Max 4 HD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460871.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CB26vFR.png" group-title="بين سبورت",beIN Sports Max 4 4K كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460870.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CzrPhNf.png" group-title="بين سبورت",beIN Sports Max 5 SD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460875.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CzrPhNf.png" group-title="بين سبورت",beIN Sports Max 5 HD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460874.ts
+#EXTINF:-1 tvg-logo="https://iili.io/CzrPhNf.png" group-title="بين سبورت",beIN Sports Max 5 4K كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460873.ts
+#EXTINF:-1 tvg-logo="https://iili.io/Czriies.png" group-title="بين سبورت",beIN Sports Max 6 SD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460878.ts
+#EXTINF:-1 tvg-logo="https://iili.io/Czriies.png" group-title="بين سبورت",beIN Sports Max 6 HD كاس العالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460877.ts
+#EXTINF:-1 tvg-logo="https://iili.io/Czriies.png" group-title="بين سبورت",beIN Sports Max 6 4K كاس لهالم ⚡
+http://185.191.126.127:8080/live///omar777/01103978590/460876.ts
